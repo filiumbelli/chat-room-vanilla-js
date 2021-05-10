@@ -1,0 +1,32 @@
+.title {
+    border-width: 2px;
+    border-radius: 10px;
+    position: relative;
+    font-size: 18px;
+}
+
+button {
+    color: #333 !important;
+    border: 2px solid rgb(17, 8, 8) !important;
+}
+
+button:hover {
+    border: 2px solid rgb(17, 8, 8) !important;
+    background-color: rgb(175, 74, 175) !important;
+    color: white;
+}
+
+.sized {
+    min-width: 80px !important;
+    /*adjust as needed*/
+}
+
+.username{
+    font-weight: bold;
+}
+
+.time{
+    font-weight: 200;
+    font-size: 12px;
+    color: #333;
+}
